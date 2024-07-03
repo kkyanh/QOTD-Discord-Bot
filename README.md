@@ -1,5 +1,5 @@
 # Question of the Day Discord Bot
-This is a Discord bot built mostly to learn JavaScript and working with the Discord API using discord.js, a powerful Node.js module, to interact with it.
+This is a Discord bot built mostly to learn JavaScript and work with the Discord API using discord.js, a powerful Node.js module, to interact with it.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
